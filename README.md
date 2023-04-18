@@ -23,7 +23,7 @@
 </br>
 </br>
 <div style="display:inline-block;">
-<h2> Skills <img alt="react" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> </h2>
+<h2> Tech i use : <img alt="react" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> </h2>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
 <img alt="javascript" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
 <img alt="css3" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
@@ -32,7 +32,7 @@
 </div>
 <br>
 
-<h2> Reach out to me  </h2>
+<h2> Reach out to me : </h2>
 <a href = 'https://www.linkedin.com/in/batuhan-ta%C5%9Fk%C4%B1n-b48673260/'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png"/></a>
 <a href = 'https://twitter.com/batumeister'> <img style=" background-color:white;" width = '32px' align= 'center' src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png"/></a>
 <a href = 'https://codepen.io/jsbatu'> <img width = '33px' height="32px" align= 'center' style="background-color:white;" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Codepen-512.png"/></a>
