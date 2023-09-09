@@ -23,18 +23,20 @@
 </br>
 <div style="display:inline-block;">
 <h2> Skills <img alt="react" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> </h2>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
+
 <img alt="javascript" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
 <img alt="css3" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
 <img alt="html5" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
-<img alt="photoshop" width ='35px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png'>
+<img alt="photoshop" width ='35px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.
+png'>
+<img alt="photoshop" width ='35px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png'>
 </div>
 <br>
 
 <h2> Reach out to me  </h2>
 <a href = 'https://www.linkedin.com/in/batuhan-ta%C5%9Fk%C4%B1n-b48673260/'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png"/></a>
-<a href = 'https://twitter.com/batumeister'> <img style=" background-color:white; border-radius:5px;" width = '32px' align= 'center' src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-icon-png-image_6315986.png"/></a>
-<a href = 'https://codepen.io/jsbatu'> <img width = '33px' height="32px" align= 'center'  src="https://cdn-icons-png.flaticon.com/512/1626/1626319.png"/></a>
+<a href = 'https://twitter.com/batumeister'> <img style=" background-color:white; border-radius:5px;" width = '32px' height="35px" align= 'center' src="https://vectorseek.com/wp-content/uploads/2023/07/Twitter-X-Logo-Vector-01-2.jpg"/></a>
+<a href = 'https://codepen.io/jsbatu'> <img width = '33px' height="33px" align= 'center'  src="https://cdn-icons-png.flaticon.com/512/1626/1626319.png"/></a>
 
 
 <br>
