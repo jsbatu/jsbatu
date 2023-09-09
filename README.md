@@ -27,8 +27,7 @@
 <img alt="javascript" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
 <img alt="css3" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
 <img alt="html5" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
-<img alt="photoshop" width ='35px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.
-png'>
+<img alt="photoshop" width ='35px' src ='https://camo.githubusercontent.com/3984e42c8975b59b2d399367f4b640720467ae44fdc38a91551b460effdd30f6/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f612f61662f41646f62655f50686f746f73686f705f43435f69636f6e2e7376672f3132303070782d41646f62655f50686f746f73686f705f43435f69636f6e2e7376672e706e67'>
 <img alt="photoshop" width ='35px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png'>
 </div>
 <br>
