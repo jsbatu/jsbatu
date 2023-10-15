@@ -33,9 +33,9 @@
 <br>
 
 <h2> Reach out to me  </h2>
-<a href = 'https://www.linkedin.com/in/batuhan-ta%C5%9Fk%C4%B1n-b48673260/'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png"/></a>
-<a href = 'https://twitter.com/batumeister'> <img style=" background-color:white; border-radius:5px;" width = '32px' height="35px" align= 'center' src="https://vectorseek.com/wp-content/uploads/2023/07/Twitter-X-Logo-Vector-01-2.jpg"/></a>
-<a href = 'https://codepen.io/jsbatu'> <img width = '33px' height="33px" align= 'center'  src="https://cdn-icons-png.flaticon.com/512/1626/1626319.png"/></a>
+<a href = 'https://www.linkedin.com/in/batuhan-ta%C5%9Fk%C4%B1n-b48673260/'> <img width = '35px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png"/></a>
+<a href = 'https://twitter.com/batumeister'> <img ;" width = '37px' height="37px" align= 'center' src="https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png"/></a>
+<a href = 'https://codepen.io/jsbatu'> <img width = '36px' height="36px" align= 'center'  src="https://cdn-icons-png.flaticon.com/512/1626/1626319.png"/></a>
 
 
 <br>
@@ -43,5 +43,7 @@
   <br>
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsbatu&langs_count=8&theme=light&layout=radical) 
+
+
 
 
