@@ -42,7 +42,7 @@
 <br>
   <br>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?jsbatu=myusername&theme=tokyonight)
+ [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jsbatu)](https://github.com/jsbatu/github-readme-stats)
 
 
 
