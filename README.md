@@ -42,7 +42,7 @@
 <br>
   <br>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsbatu&langs_count=8&theme=light&layout=radical) 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?jsbatu=myusername&theme=tokyonight)
 
 
 
