@@ -12,13 +12,12 @@
 </br>
 <img width="55%" align="right" alt="Github" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" />
 
-- 🔭 I’m currently working on My Blog, Github Project
+- 🔭 I’m currently working on My Github Projects
 
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning React
 
-- 🚀 I’m looking to collaborate on Projects,Tech Articles
+- 💬 Talk to me about Web Programming, App programming
 
-- 💬 Talk to me about Web Programming
 </br>
 </br>
 <div style="display:inline-block;">
