@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/jsbatu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/jsbatu" height="30" width="40" /></a>
+<a href="https://codepen.io/jsbatu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/jsbatu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/batuhan-ta%c5%9fk%c4%b1n-878b24291/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="batuhan-ta%c5%9fk%c4%b1n-878b24291/" height="30" width="40" /></a>
 <a href="https://instagram.com/learnwithbatu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="learnwithbatu" height="30" width="40" /></a>
 </p>
