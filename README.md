@@ -29,6 +29,3 @@
 
 ---
 
-<p align="center">
-  <sub>☕ <i>Built with good vibes & powered by AI.</i></sub>
-</p>
